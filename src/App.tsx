@@ -215,9 +215,6 @@ export default function App() {
           <Reveal>
             <h2 className="section-title">Behandlingar</h2>
             <span className="gold-line" />
-            <p className="section-subtitle">
-              Boka enkelt online.
-            </p>
           </Reveal>
 
           <div className="services-tabs">
