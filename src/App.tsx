@@ -216,7 +216,7 @@ export default function App() {
             <h2 className="section-title">Behandlingar</h2>
             <span className="gold-line" />
             <p className="section-subtitle">
-              Alla priser och tider hämtade direkt från Bokadirekt. Boka enkelt online.
+              Boka enkelt online.
             </p>
           </Reveal>
 
